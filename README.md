@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm SURYA</h1>
 <h3 align="center">"I am passionate about developing my skills and expanding my knowledge in new and emerging technologies."</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/bT70J.gif">
+<img align="right" alt="coding" width="400" src="+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryasmv&label=Profile%20views&color=0e75b6&style=flat" alt="suryasmv" /> </p>
 
